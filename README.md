@@ -11,3 +11,7 @@ cd pdfme-example
 npm install
 npm run dev
 ```
+
+```sh
+npm install @pdfme/generator @pdfme/ui @pdfme/common
+```
