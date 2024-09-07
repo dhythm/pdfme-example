@@ -14,7 +14,9 @@
     "@pdfme/generator": "^4.3.2",
     "@pdfme/ui": "^4.3.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "signature_pad": "^5.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
