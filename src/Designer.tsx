@@ -66,7 +66,7 @@ export function Designer() {
 
     getFontsData().then((font) => {
       if (designerRef.current) {
-        designer.current = new Designer({
+        designer.current = new UiDesigner({
           domContainer: designerRef.current,
           template,
           options: {
